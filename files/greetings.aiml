@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml version="2.0">
-	<!-- insert your AIML categories here -->
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+  <pattern>HELLO</pattern>
+  <template>Hello! I am CS Career Buddy. I can help you explore careers in computer science. Would you like to begin?</template>
+</category>
+
+<category>
+  <pattern>HI</pattern>
+  <template>Hello! I am CS Career Buddy. Are you ready to explore computer science career options?</template>
+</category>
+
+<category>
+  <pattern>YES</pattern>
+  <template>Great! First question: Do you enjoy DESIGN, DATA, SECURITY, SOFTWARE, or SYSTEMS?</template>
+</category>
+
+<category>
+  <pattern>NO</pattern>
+  <template>No problem. Come back any time when you’re ready to explore career paths!</template>
+</category>
+
 </aiml>

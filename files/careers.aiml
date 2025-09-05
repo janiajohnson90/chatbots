@@ -1,4 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml version="2.0">
-	<!-- insert your AIML categories here -->
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- UX/UI Designer -->
+<category>
+  <pattern>TEAMWORK</pattern>
+  <template>You might thrive as a UX/UI Designer! UX Designers focus on making software easy and enjoyable to use. They often work closely with teams and users.</template>
+</category>
+<category>
+  <pattern>INDEPENDENT</pattern>
+  <template>You might enjoy UX/UI work as a solo designer, or you could explore freelance design roles in tech.</template>
+</category>
+
+<!-- Data Analyst -->
+<category>
+  <pattern>MATH</pattern>
+  <template>You could be a Data Analyst! Analysts interpret data, create visualizations, and support business decisions.</template>
+</category>
+<category>
+  <pattern>PATTERNS</pattern>
+  <template>A Data Analyst role could be perfect. If you like patterns, you may also enjoy transitioning into machine learning later.</template>
+</category>
+
+<!-- Cybersecurity Analyst -->
+<category>
+  <pattern>HANDS-ON</pattern>
+  <template>You might enjoy being a Cybersecurity Analyst. These professionals actively test systems, run penetration tests, and defend against attacks.</template>
+</category>
+<category>
+  <pattern>STRATEGIC</pattern>
+  <template>A Cybersecurity Analyst role focused on monitoring, strategy, and compliance might fit you well.</template>
+</category>
+
+<!-- Software Developer -->
+<category>
+  <pattern>FRONTEND</pattern>
+  <template>You would likely enjoy being a Software Developer focused on front-end coding—designing interfaces and creating user-friendly apps.</template>
+</category>
+<category>
+  <pattern>BACKEND</pattern>
+  <template>A Software Developer role in back-end development could be a great fit. You’d work on servers, APIs, and database logic.</template>
+</category>
+
+<!-- DevOps Engineer -->
+<category>
+  <pattern>AUTOMATION</pattern>
+  <template>You might excel as a DevOps Engineer, focusing on automation, CI/CD pipelines, and efficient deployment systems.</template>
+</category>
+<category>
+  <pattern>TROUBLESHOOTING</pattern>
+  <template>DevOps roles that emphasize monitoring and problem-solving could be a great fit for you.</template>
+</category>
+
 </aiml>

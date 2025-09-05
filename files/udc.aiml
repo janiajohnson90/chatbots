@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-  <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
-  </category>
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+  <pattern>LOAD AIML B</pattern>
+  <template>
+    <learn>greetings.aiml</learn>
+    <learn>interests.aiml</learn>
+    <learn>careers.aiml</learn>
+  </template>
+</category>
+
 </aiml>

@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml version="2.0">
-	<!-- insert your AIML categories here -->
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- DESIGN -->
+<category>
+  <pattern>DESIGN</pattern>
+  <template>Awesome! You seem to enjoy creativity and user interaction. Do you like TEAMWORK or INDEPENDENT work?</template>
+</category>
+
+<!-- DATA -->
+<category>
+  <pattern>DATA</pattern>
+  <template>Great choice. Working with data requires strong analytical skills. Do you prefer MATH or PATTERNS?</template>
+</category>
+
+<!-- SECURITY -->
+<category>
+  <pattern>SECURITY</pattern>
+  <template>Interesting! You’re interested in protecting systems. Do you prefer HANDS-ON or STRATEGIC work?</template>
+</category>
+
+<!-- SOFTWARE -->
+<category>
+  <pattern>SOFTWARE</pattern>
+  <template>Excellent! Software development involves problem-solving and coding. Do you prefer FRONTEND or BACKEND?</template>
+</category>
+
+<!-- SYSTEMS -->
+<category>
+  <pattern>SYSTEMS</pattern>
+  <template>Systems and infrastructure are crucial for modern computing. Do you enjoy AUTOMATION or TROUBLESHOOTING?</template>
+</category>
+
 </aiml>
